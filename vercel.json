@@ -1,6 +1,7 @@
 {
   "version": 1,
-  "framework": "node",
+  "framework": "node",,
+  "name":"sockeing",
   "builds": [
     {
       "src": "server.js",
