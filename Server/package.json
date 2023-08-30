@@ -2,9 +2,13 @@
   "name": "current-project",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
+  "engines": {
+    "node": "19.x"
+  },
   "scripts": {
-    "dev": "node server.js"
+    "dev": "node index.js",
+    "start": "node index.js"
   },
   "author": "Akrem Abdulkdir",
   "license": "ISC",
