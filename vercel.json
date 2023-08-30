@@ -1,10 +1,10 @@
 {
   "functions": {
-    "api/index.js": {
+    "index.js": {
       "memory": 1000,
       "maxDuration": 10
     },
-    "api/*.js": {
+    "*.js": {
       "memory": 1000,
       "maxDuration": 10
     }
