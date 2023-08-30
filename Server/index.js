@@ -23,4 +23,4 @@ app.use("/data", subscribersRouter);
 const userRouter = require("./routes/user");
 app.use("/user", userRouter);
 
-app.listen(process.env.PORT, () => console.log("Server Started"));
+app.listen(3001, () => console.log("Server Started"));
