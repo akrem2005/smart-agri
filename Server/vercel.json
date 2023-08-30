@@ -1,17 +1,15 @@
 {
-  "version": 1,
-  "framework": "node",
-  "name": "sockeing",
+  "version": 2,
   "builds": [
     {
-      "src": "server.js",
+      "src": "./server.jsserver.js",
       "use": "@vercel/node"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/server.js"
+      "dest": "/"
     }
   ]
 }
