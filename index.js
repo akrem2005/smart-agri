@@ -24,3 +24,5 @@ const userRouter = require("./routes/user");
 app.use("/user", userRouter);
 
 app.listen(3001, () => console.log("Server Started"));
+
+export default app;
