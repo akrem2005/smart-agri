@@ -22,7 +22,7 @@ Before running the API, ensure that you have the following software installed:
 1. Clone the repository:
 
    ````bash
-   git clone https://github.com/your-username/your-repo.git
+   https://github.com/akrem2005/smart-agri.git
    ```
 
 2. Install the dependencies:
