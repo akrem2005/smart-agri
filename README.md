@@ -28,7 +28,7 @@ Before running the API, ensure that you have the following software installed:
 2. Install the dependencies:
 
    ````bash
-   cd your-repo
+   cd smart-agri
    npm install
    ```
 
